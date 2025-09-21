@@ -1,1 +1,3 @@
 venv/
+3-VectorStore/chroma_db/
+3-VectorStore/faiss_index/
