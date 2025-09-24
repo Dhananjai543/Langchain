@@ -22,3 +22,5 @@ fastapi
 uvicorn
 langserve
 sse-starlette
+openai
+langchain_ollama
