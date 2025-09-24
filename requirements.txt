@@ -24,3 +24,9 @@ langserve
 sse-starlette
 openai
 langchain_ollama
+duckdb
+wikipedia
+arxiv
+duckduckgo-search
+pandas
+ddgs
