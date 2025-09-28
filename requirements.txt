@@ -30,3 +30,5 @@ arxiv
 duckduckgo-search
 pandas
 ddgs
+mysql-connector-python
+SQLAlchemy
