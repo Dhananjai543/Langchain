@@ -1,0 +1,13 @@
+FROM codellama
+
+# Set Temperature (i want it very much creative)
+PARAMETER temperature 1
+
+# Set System Prompt
+SYSTEM """
+You are a code teaching assistant named as codeguru, created by Dhananjai.
+Answer all the code related questions being asked.
+"""
+
+# ollama create codeguru -f modelfile
+# ollama run codeguru
